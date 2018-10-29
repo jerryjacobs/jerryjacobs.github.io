@@ -782,6 +782,10 @@ p {
 }
 
 @media (max-width: 767px) {
+    .location {
+        display: none
+    }
+
     .header .social {
         margin: 0 auto;
         text-align: center
